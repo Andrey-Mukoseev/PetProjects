@@ -6,3 +6,4 @@
 
 |№  |Наименование проекта         |Описание                          |Стек технологий      |
 |---|------------------------------|---------------------------------|---------------------|
+|1  |dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd| dasdasdsdqwe1qeqwe312313wdad2edasd1e1e| 12e1sdasdd12e|
